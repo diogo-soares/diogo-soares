@@ -19,7 +19,7 @@
   <p>🔹 Projetos Web</p>
   
   <h2>🌱 Atualmente estou aprendendo </h2>
-  <p>React</p>
-  <p>React Native</p>
-  <p>Node Js</p>
+  <p>🔹 React</p>
+  <p>🔹 React Native</p>
+  <p>🔹 >Node Js</p>
   
