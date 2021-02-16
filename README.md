@@ -21,4 +21,5 @@
   <p>🔹 React</p>
   <p>🔹 React Native</p>
   <p>🔹 >Node Js</p>
+  <p>🔹 >Next Js</p>
   
