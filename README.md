@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 I am graduated in systems analysis and development.
 - 🌱 I'm currently working on web development
-- 🤝 I'm looking to collaborate on projects, web development
+- 🤝 I'm looking to collaborate on projects
 
 ## Technologies & Tools
 <div style="display: inline_block"><br>
